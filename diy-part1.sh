@@ -10,7 +10,7 @@
 # See /LICENSE for more information.
 #
 git checkout -b sea 1b3612a28913a1feacf9b155bec26e3c534fbd74
-sed -i 's/6.6/5.15/' target/linux/x86/Makefile
+sed -i 's/6.1/5.15/' target/linux/x86/Makefile
 # Uncomment a feed source
 #sed -i 's/^#\(.*helloworld\)/\1/' feeds.conf.default
 
