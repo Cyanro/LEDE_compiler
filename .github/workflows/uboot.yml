@@ -10,7 +10,7 @@
 # See /LICENSE for more information.
 #
 
-name: hc5861_with_ssr
+name: uboot
 
 on:
   repository_dispatch:
