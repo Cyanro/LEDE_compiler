@@ -20,5 +20,5 @@ echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.defau
 #echo 'src-git ADJ https://github.com/ADJazzzz/OpenWrt-package' >>feeds.conf.default
 
 #add package
-git clone https://github.com/jerrykuku/lua-maxminddb.git ./package/lean/lua-maxminddb
-git clone https://github.com/Cyanro/luci-app-vssr.git ./package/lean/luci-app-vssr
+#git clone https://github.com/jerrykuku/lua-maxminddb.git ./package/lean/lua-maxminddb
+#git clone https://github.com/Cyanro/luci-app-vssr.git ./package/lean/luci-app-vssr
